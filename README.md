@@ -59,7 +59,7 @@ After
 
 
 ###  Object Remove
-![alt text](image-6.png)
+![alt text](image-10.png)
 
 ### Object Recolor
 ![alt text](image-8.png)
