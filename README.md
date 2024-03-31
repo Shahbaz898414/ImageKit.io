@@ -43,3 +43,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
+
+![alt text](image-5.png)
+
+### Image Restore
+Before
+![alt text](image-3.png)
+
+After
+![alt text](image-4.png)
+
+### Generative Fill
+
+
+###  Object Remove
+![alt text](image-6.png)
+
