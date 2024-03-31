@@ -55,7 +55,15 @@ After
 
 ### Generative Fill
 
+![alt text](image-7.png)
+
 
 ###  Object Remove
 ![alt text](image-6.png)
+
+### Object Recolor
+![alt text](image-8.png)
+
+### Background Remove
+![alt text](image-9.png)
 
