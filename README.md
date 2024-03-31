@@ -38,3 +38,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Output
 ![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
