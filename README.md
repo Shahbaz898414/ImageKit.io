@@ -46,6 +46,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ![alt text](image-5.png)
 
+###  Object Remove
+![alt text](image-10.png)
+
+
 ### Image Restore
 Before
 ![alt text](image-3.png)
@@ -53,17 +57,19 @@ Before
 After
 ![alt text](image-4.png)
 
+### Object Recolor
+
+![alt text](image-8.png)
+
 ### Generative Fill
 
 ![alt text](image-7.png)
 
 
-###  Object Remove
-![alt text](image-10.png)
 
-### Object Recolor
-![alt text](image-8.png)
+
+
 
 ### Background Remove
-![alt text](image-9.png)
+![alt text](image-12.png)
 
